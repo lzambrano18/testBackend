@@ -1,0 +1,7 @@
+-r base.pip
+factory-boy
+fake-factory
+flake8
+isort
+pytest
+pytest-django

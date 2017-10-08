@@ -1,0 +1,7 @@
+django
+django-environ
+django-filter
+django-rest-swagger
+djangorestframework
+pillow
+psycopg2
